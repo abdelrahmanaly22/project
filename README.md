@@ -1,6 +1,6 @@
 # project
 webpage
 # features
-form
-table
-dynamic animation
+## form
+## table
+## dynamic animation
