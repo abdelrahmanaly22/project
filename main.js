@@ -13,7 +13,7 @@ submit32.addEventListener('click', function() {
     divContainer.classList.add('flex-center');
     let divCard = document.createElement('div');
     divCard.classList.add('card');
-    let text = document.createTextNode('Hello abdelrahman');
+    let text = document.createTextNode('Hello Abdelrahman');
     divCard.appendChild(text);
     divContainer.appendChild(divCard);
 
