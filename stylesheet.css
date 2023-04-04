@@ -127,15 +127,16 @@ a {
 }
 
 #eee3 {
-    color: rgba(43, 29, 173, 0.77);
+    color: rgba(48, 33, 187, 0.77);
 }
 
 .card {
     background-color: #333;
-    color: #fff;
+    color: #ede1e1;
     padding: 50px;
     border-radius: 5px;
     transition: 0.3s;
+    margin-top: 70px;
 }
 
 .hide {

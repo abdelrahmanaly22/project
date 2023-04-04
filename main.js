@@ -1,3 +1,4 @@
+let body = document.body;
 let form = document.getElementsByClassName('color-p');
 let submit32 = document.getElementById('submit32');
 
